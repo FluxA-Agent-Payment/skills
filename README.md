@@ -12,4 +12,4 @@ Add this marketplace to Claude Code:
 
 ## Publishing Skills
 
-Visit [fluxapay.xyz](https://fluxapay.xyz) to publish your skills to this marketplace.
+Visit [monetize.fluxapay.xyz](https://monetize.fluxapay.xyz/cowork-skills) to publish your skills to this marketplace.
