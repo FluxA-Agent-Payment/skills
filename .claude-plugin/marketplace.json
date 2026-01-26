@@ -10,24 +10,6 @@
   },
   "plugins": [
     {
-      "name": "technical-walkthrough-diagram",
-      "source": "./plugins/technical-walkthrough-diagram",
-      "description": "When a user requests a technical diagram, automatically fetch and organize key information from user-specified documentation, GitHub repositories, or URLs, generate a “how-it-works” diagram, and produce a post explaining how the project works (suitable for a Twitter thread or a blog).",
-      "author": {
-        "name": "sky"
-      },
-      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/plugins/technical-walkthrough-diagram"
-    },
-    {
-      "name": "create-ppt-with-nano-banana",
-      "source": "./plugins/create-ppt-with-nano-banana",
-      "description": "Create PowerPoint presentations with AI-generated images. Use when user wants to create a presentation, make slides, build a pptx, or needs AI images for slides using x402 payments.",
-      "author": {
-        "name": "sky"
-      },
-      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/plugins/create-ppt-with-nano-banana"
-    },
-    {
       "name": "nanobanana-ppt-skills2",
       "source": "./plugins/nanobanana-ppt-skills2",
       "description": "AI-powered high-quality PPT image and video generation with intelligent transitions and interactive playback. Pay-per-use model, no API key configuration required.",
