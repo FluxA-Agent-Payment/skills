@@ -10,6 +10,19 @@
   },
   "plugins": [
     {
+      "name": "technical-walkthrough-diagram",
+      "description": "When a user requests a technical diagram, automatically fetch and organize key information from user-specified documentation, GitHub repositories, or URLs, generate a “how-it-works” diagram, and produce a post explaining how the project works (suitable for a Twitter thread or a blog).",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/technical-walkthrough-diagram"
+      ],
+      "author": {
+        "name": "sky"
+      },
+      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/skills/technical-walkthrough-diagram"
+    },
+    {
       "name": "nanobanana-ppt-skills2",
       "description": "AI-powered high-quality PPT image and video generation with intelligent transitions and interactive playback. Pay-per-use model, no API key configuration required.",
       "source": "./",
