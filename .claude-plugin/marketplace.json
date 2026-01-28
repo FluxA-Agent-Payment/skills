@@ -10,6 +10,19 @@
   },
   "plugins": [
     {
+      "name": "trading-plan-generator",
+      "description": "Generate comprehensive trading plans with risk management, position sizing, entry/exit strategies, and performance tracking to trade with discipline and consistency.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/trading-plan-generator"
+      ],
+      "author": {
+        "name": "chris"
+      },
+      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/skills/trading-plan-generator"
+    },
+    {
       "name": "illustrated-slides-with-nano-banana",
       "description": "Create PowerPoint/PDF presentations where each slide is a complete AI-generated image with all text embedded. Supports multiple visual styles (corporate, minimalist, creative, kawaii, custom). Use when user wants fully-illustrated slides, visual-first decks, or AI-generated presentation images via x402 payments.",
       "source": "./",
