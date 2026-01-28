@@ -10,6 +10,19 @@
   },
   "plugins": [
     {
+      "name": "plutosecurity-claude-skills",
+      "description": "A comprehensive security skill that integrates with Secure Flow to help AI coding agents write secure code, perform security reviews, and implement security best practices. Use this skill when writing, reviewing, or modifying code to ensure secure-by-default practices are followed.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/plutosecurity-claude-skills"
+      ],
+      "author": {
+        "name": "chris"
+      },
+      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/skills/plutosecurity-claude-skills"
+    },
+    {
       "name": "tailored-resume-generator",
       "description": "Analyzes job descriptions and generates tailored resumes that highlight relevant experience, skills, and achievements to maximize interview chances",
       "source": "./",
