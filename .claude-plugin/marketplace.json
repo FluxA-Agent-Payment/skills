@@ -10,6 +10,19 @@
   },
   "plugins": [
     {
+      "name": "tailored-resume-generator",
+      "description": "Analyzes job descriptions and generates tailored resumes that highlight relevant experience, skills, and achievements to maximize interview chances",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/tailored-resume-generator"
+      ],
+      "author": {
+        "name": "chris"
+      },
+      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/skills/tailored-resume-generator"
+    },
+    {
       "name": "trading-plan-generator",
       "description": "Generate comprehensive trading plans with risk management, position sizing, entry/exit strategies, and performance tracking to trade with discipline and consistency.",
       "source": "./",
