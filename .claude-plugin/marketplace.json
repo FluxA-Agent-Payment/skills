@@ -10,6 +10,19 @@
   },
   "plugins": [
     {
+      "name": "remotion-video-creator",
+      "description": "Create animated videos using Remotion (React-based video framework). Use when the user wants to create demo videos, animated explainers, walkthroughs, or slideshow-style presentations from UI concepts, screenshots, or descriptions. Handles scene design, TypeScript component creation, spring-based animations, typewriter effects, and video export.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/remotion-video-creator"
+      ],
+      "author": {
+        "name": "sky"
+      },
+      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/skills/remotion-video-creator"
+    },
+    {
       "name": "plutosecurity-claude-skills",
       "description": "A comprehensive security skill that integrates with Secure Flow to help AI coding agents write secure code, perform security reviews, and implement security best practices. Use this skill when writing, reviewing, or modifying code to ensure secure-by-default practices are followed.",
       "source": "./",
