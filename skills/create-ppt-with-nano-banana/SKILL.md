@@ -47,7 +47,7 @@ When you need to generate images for slides, use the Nano Banana API with x402 p
 
 ### API Details
 
-- **Endpoint:** `https://proxy-monetize.fluxapay.xyz/api/b7da8911-ab69-4577-9d90-f9ae6ca34bfa/gen-image`
+- **Endpoint:** `https://proxy-monetize.fluxapay.xyz/nano-banana/gen-image`
 - **Method:** POST
 - **Price:** 0.1 USDC per image (Base network)
 - **Payment:** x402 protocol with FluxA Wallet
