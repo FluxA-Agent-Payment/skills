@@ -75,7 +75,7 @@ When generating images, in addition to the core descriptive prompt (based on the
 
     ```
     ** API Discovery ** First, discover available endpoints by making a GET request to the base URL:
-    curl https://proxy-monetize.fluxapay.xyz/api/b7da8911-ab69-4577-9d90-f9ae6ca34bfa
+    curl https://proxy-monetize.fluxapay.xyz/api/nano-banana
     ```
 
   * note
