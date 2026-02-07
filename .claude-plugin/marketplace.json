@@ -10,19 +10,6 @@
   },
   "plugins": [
     {
-      "name": "last30days",
-      "description": "|",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/last30days"
-      ],
-      "author": {
-        "name": "sky"
-      },
-      "homepage": "https://github.com/ZSkyX/last30days-skill"
-    },
-    {
       "name": "remotion-video-creator",
       "description": "Create animated videos using Remotion (React-based video framework). Use when the user wants to create demo videos, animated explainers, walkthroughs, or slideshow-style presentations from UI concepts, screenshots, or descriptions. Handles scene design, TypeScript component creation, spring-based animations, typewriter effects, and video export.",
       "source": "./",
