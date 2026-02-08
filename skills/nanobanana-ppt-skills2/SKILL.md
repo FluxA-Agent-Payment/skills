@@ -267,7 +267,7 @@ Introduce the **outputs** to the user and explain **how to use them**.
 
     ```bash
     # API Discovery - First discover available endpoints
-    curl -s https://proxy-monetize.fluxapay.xyz/api/nano-banana-t2i
+    curl https://proxy-monetize.fluxapay.xyz/api/nano-banana-t2i
     ```
 
   * note
@@ -284,7 +284,7 @@ Introduce the **outputs** to the user and explain **how to use them**.
 
     ```bash
     # API Discovery - First discover available endpoints
-    curl -s https://proxy-monetize.fluxapay.xyz/api/kling-i2v
+    curl https://proxy-monetize.fluxapay.xyz/api/kling-i2v
     ```
 
   * note
