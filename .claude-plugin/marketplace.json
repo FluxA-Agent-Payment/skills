@@ -10,6 +10,19 @@
   },
   "plugins": [
     {
+      "name": "illustrated-slides-with-nano-banana",
+      "description": "Create PowerPoint/PDF presentations where each slide is a complete AI-generated image with all text embedded. Supports multiple visual styles (corporate, minimalist, creative, kawaii, custom). Use when user wants fully-illustrated slides, visual-first decks, or AI-generated presentation images via x402 payments.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/illustrated-slides-with-nano-banana"
+      ],
+      "author": {
+        "name": "sky"
+      },
+      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/skills/illustrated-slides-with-nano-banana"
+    },
+    {
       "name": "last30days",
       "description": "\"Research any topic from the last 30 days across Reddit, X, and web. Uses paid APIs (~$0.03) for real engagement metrics. Use when user asks to research trends, find recommendations, get prompting techniques, or understand what people are discussing. Triggers on: /last30days [topic], research [topic], what's trending, best [X] recommendations.\"",
       "source": "./",
