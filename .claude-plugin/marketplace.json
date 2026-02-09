@@ -10,6 +10,19 @@
   },
   "plugins": [
     {
+      "name": "last30days",
+      "description": "\"Research any topic from the last 30 days across Reddit, X, and web. Uses paid APIs (~$0.03) for real engagement metrics. Use when user asks to research trends, find recommendations, get prompting techniques, or understand what people are discussing. Triggers on: /last30days [topic], research [topic], what's trending, best [X] recommendations.\"",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/last30days"
+      ],
+      "author": {
+        "name": "sky"
+      },
+      "homepage": "https://github.com/ZSkyX/last30days-skill"
+    },
+    {
       "name": "remotion-video-creator",
       "description": "Create animated videos using Remotion (React-based video framework). Use when the user wants to create demo videos, animated explainers, walkthroughs, or slideshow-style presentations from UI concepts, screenshots, or descriptions. Handles scene design, TypeScript component creation, spring-based animations, typewriter effects, and video export.",
       "source": "./",
