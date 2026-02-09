@@ -75,19 +75,6 @@
       "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/skills/trading-plan-generator"
     },
     {
-      "name": "illustrated-slides-with-nano-banana",
-      "description": "Create PowerPoint/PDF presentations where each slide is a complete AI-generated image with all text embedded. Supports multiple visual styles (corporate, minimalist, creative, kawaii, custom). Use when user wants fully-illustrated slides, visual-first decks, or AI-generated presentation images via x402 payments.",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/illustrated-slides-with-nano-banana"
-      ],
-      "author": {
-        "name": "sky"
-      },
-      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/skills/illustrated-slides-with-nano-banana"
-    },
-    {
       "name": "technical-walkthrough-diagram",
       "description": "When a user requests a technical diagram, automatically fetch and organize key information from user-specified documentation, GitHub repositories, or URLs, generate a “how-it-works” diagram, and produce a post explaining how the project works (suitable for a Twitter thread or a blog).",
       "source": "./",
