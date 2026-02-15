@@ -10,19 +10,6 @@
   },
   "plugins": [
     {
-      "name": "create-ppt",
-      "description": "Create PowerPoint Presentation Skill",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/create-ppt"
-      ],
-      "author": {
-        "name": "sky"
-      },
-      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/skills/create-ppt"
-    },
-    {
       "name": "video-presentation-maker",
       "description": "AI-powered high-quality PPT image and video generation with intelligent transitions and interactive playback. Pay-per-use model, no API key configuration required.",
       "source": "./",
