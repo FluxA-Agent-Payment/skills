@@ -10,6 +10,19 @@
   },
   "plugins": [
     {
+      "name": "skill-starter-kit--4-",
+      "description": "A skill that uses Grok API call, Video Generation with VEO 3.1",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/skill-starter-kit--4-"
+      ],
+      "author": {
+        "name": "occam"
+      },
+      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/skills/skill-starter-kit--4-"
+    },
+    {
       "name": "video-presentation-maker",
       "description": "AI-powered high-quality PPT image and video generation with intelligent transitions and interactive playback. Pay-per-use model, no API key configuration required.",
       "source": "./",
