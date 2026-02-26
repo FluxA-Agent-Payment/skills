@@ -10,6 +10,19 @@
   },
   "plugins": [
     {
+      "name": "skill-starter-kit-comb",
+      "description": "A skill that uses Grok API call, Video Generation with VEO 3.1",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/skill-starter-kit-comb"
+      ],
+      "author": {
+        "name": "sky"
+      },
+      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/skills/skill-starter-kit-comb"
+    },
+    {
       "name": "my-skill",
       "description": "A skill that uses Grok API call, Video Generation with VEO 3.1, OpenAI API Endpoints, KLing I2V",
       "source": "./",
