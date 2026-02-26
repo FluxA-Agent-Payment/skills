@@ -10,6 +10,19 @@
   },
   "plugins": [
     {
+      "name": "my-skill",
+      "description": "A skill that uses Grok API call, Video Generation with VEO 3.1, OpenAI API Endpoints, KLing I2V",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/my-skill"
+      ],
+      "author": {
+        "name": "skillsgod"
+      },
+      "homepage": "https://github.com/FluxA-Agent-Payment/skills/tree/main/skills/my-skill"
+    },
+    {
       "name": "skill-starter-kit",
       "description": "A skill that uses asd",
       "source": "./",
