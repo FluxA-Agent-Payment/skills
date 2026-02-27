@@ -1,5 +1,5 @@
 ---
-name: my-skill
+name: skill-starter-kit--8-
 description: A skill that uses Grok API call, Video Generation with VEO 3.1, OpenAI API Endpoints, KLing I2V
 ---
 
